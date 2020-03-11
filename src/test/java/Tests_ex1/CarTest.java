@@ -1,4 +1,4 @@
-package StandardTests_ex1;
+package Tests_ex1;
 
 import My_Work.java_1_Chruściel_Manual.ex_3.Car;
 import org.junit.jupiter.api.Test;

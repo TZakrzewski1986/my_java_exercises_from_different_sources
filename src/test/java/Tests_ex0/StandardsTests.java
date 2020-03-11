@@ -1,4 +1,4 @@
-package StandardTests_ex0;
+package Tests_ex0;
 
 import org.junit.jupiter.api.*;
 
