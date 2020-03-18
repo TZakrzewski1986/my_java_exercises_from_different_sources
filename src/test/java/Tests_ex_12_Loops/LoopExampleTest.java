@@ -1,6 +1,6 @@
 package Tests_ex_12_Loops;
 
-import My_Work.java_1_Chruściel_Manual.loops.LoopExample;
+import My_Work.java_1_Chruściel_Manual.ex_12_loops.LoopExample;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -24,6 +24,26 @@ public class LoopExampleTest {
         // Then
         assertThat(testArray).hasSize(5);
         assertThat(testArray[4]).isEqualTo(4);
+        System.out.println(Arrays.toString(testArray));
+    }
+
+    @Test
+    public void shouldFillArrayViaLoopWhile() {
+        // When
+        int[] testArray = loopExample.fillWhile(5);
+        // Then
+        assertThat(testArray).hasSize(5);
+        assertThat(testArray[2]).isEqualTo(2);
+        System.out.println(Arrays.toString(testArray));
+    }
+
+    @Test
+    public void shouldFillArrayViaLoopDoWhile() {
+        // When
+        int[] testArray = loopExample.fillDoWhile(5);
+        // Then
+        assertThat(testArray).hasSize(5);
+        assertThat(testArray[2]).isEqualTo(3);
         System.out.println(Arrays.toString(testArray));
     }
 }
