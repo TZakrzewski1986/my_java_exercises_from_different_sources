@@ -15,7 +15,7 @@ public class Runner {
 
         Cabbage cabbage = new Cabbage("Cabbage", "100");
         cabbageChef.prepareMeal(cabbage);
-        
+
 
     }
 }
