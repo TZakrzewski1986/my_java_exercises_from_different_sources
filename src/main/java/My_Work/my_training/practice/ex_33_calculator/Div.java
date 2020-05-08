@@ -1,4 +1,4 @@
-package My_Work.my_training.calculator;
+package My_Work.my_training.practice.ex_33_calculator;
 
 public class Div {
 
