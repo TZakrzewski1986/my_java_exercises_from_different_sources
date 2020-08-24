@@ -1,2 +1,2 @@
-# MyWork
+# Exercises
 Ćwiczenia itd.
