@@ -1,6 +1,6 @@
 package Tests_ex_15_elementy_statyczne;
 
-import My_Work.java_1_Chruściel_Manual.ex_17_elementy_statyczne.MonthConstants;
+import my_java_exercises_from_different_sources.java_1_java_manual_sda.ex_17_elementy_statyczne.MonthConstants;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

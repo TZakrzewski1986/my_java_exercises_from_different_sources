@@ -1,4 +1,4 @@
-package My_Work.java_1_Chruściel_Manual.ex_3;
+package my_java_exercises_from_different_sources.java_1_java_manual_sda.ex_3;
 
 public class Runner {
     public static void main(String[] args) {

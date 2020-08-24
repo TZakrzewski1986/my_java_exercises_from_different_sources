@@ -1,4 +1,4 @@
-package My_Work.java_1_Chruściel_Manual.ex_18_interface;
+package my_java_exercises_from_different_sources.java_1_java_manual_sda.ex_18_interface;
 
 public class Bus implements Vehicle, Payable {
     private static final double value = 3.20;

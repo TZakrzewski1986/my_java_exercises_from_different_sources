@@ -1,4 +1,4 @@
-package My_Work.java_4_Sierra_K.ex_13;
+package my_java_exercises_from_different_sources.java_4_Sierra_K.ex_13;
 
 public class Mix4 {
     int licznik = 0;

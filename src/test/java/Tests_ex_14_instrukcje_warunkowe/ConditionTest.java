@@ -1,6 +1,6 @@
 package Tests_ex_14_instrukcje_warunkowe;
 
-import My_Work.java_1_Chruściel_Manual.ex_16_instrukcje_warunkowe.Condition;
+import my_java_exercises_from_different_sources.java_1_java_manual_sda.ex_16_instrukcje_warunkowe.Condition;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

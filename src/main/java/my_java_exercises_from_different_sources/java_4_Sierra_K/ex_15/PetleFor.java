@@ -1,4 +1,4 @@
-package My_Work.java_4_Sierra_K.ex_15;
+package my_java_exercises_from_different_sources.java_4_Sierra_K.ex_15;
 
 public class PetleFor {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package My_Work.java_1_Chruściel_Manual.ex_11_arrays;
+package my_java_exercises_from_different_sources.java_1_java_manual_sda.ex_11_arrays;
 
 public class ArrayExample {
     public int[] tab = {1, 2, 3, 8, 5};

@@ -1,6 +1,6 @@
 package Tests_ex_3_Primitive_Types_Test;
 
-import My_Work.java_1_Chruściel_Manual.ex_4_primitive_types.PrimitiveTypes;
+import my_java_exercises_from_different_sources.java_1_java_manual_sda.ex_4_primitive_types.PrimitiveTypes;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;

@@ -1,4 +1,4 @@
-package My_Work.java_1_Chruściel_Manual.ex_24_set_listy;
+package my_java_exercises_from_different_sources.java_1_java_manual_sda.ex_24_set_listy;
 
 import org.junit.jupiter.api.Test;
 

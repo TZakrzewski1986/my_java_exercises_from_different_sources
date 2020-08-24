@@ -1,6 +1,6 @@
 package Tests_ex1;
 
-import My_Work.java_1_Chruściel_Manual.ex_3.Car;
+import my_java_exercises_from_different_sources.java_1_java_manual_sda.ex_3.Car;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;

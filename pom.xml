@@ -29,7 +29,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>My_Work.java_3_advance_java_Marcisz_Patryk.ex_5_exchange.CurrencyGui</mainClass>
+                    <mainClass>CurrencyGui</mainClass>
                 </configuration>
             </plugin>
         </plugins>

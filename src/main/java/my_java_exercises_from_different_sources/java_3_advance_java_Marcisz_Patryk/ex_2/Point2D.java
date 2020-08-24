@@ -1,4 +1,4 @@
-package My_Work.java_3_advance_java_Marcisz_Patryk.ex_2;
+package my_java_exercises_from_different_sources.java_3_advance_java_Marcisz_Patryk.ex_2;
 
 import java.util.Scanner;
 

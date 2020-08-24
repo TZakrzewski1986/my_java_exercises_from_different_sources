@@ -1,6 +1,6 @@
 package Tests_ex_12_Loops;
 
-import My_Work.java_1_Chruściel_Manual.ex_12_loops.LoopExample;
+import my_java_exercises_from_different_sources.java_1_java_manual_sda.ex_12_loops.LoopExample;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
