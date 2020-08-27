@@ -1,4 +1,4 @@
-package My_Work.my_training.interview.ex_1_reverse_a_String;
+package my_java_exercises_from_different_sources.my_training.interview.ex_1_reverse_a_String;
 
 // Wykorzystanie StringBuffer class
 

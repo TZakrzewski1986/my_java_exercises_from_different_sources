@@ -1,4 +1,4 @@
-package My_Work.my_training.practice.ex_26;
+package my_java_exercises_from_different_sources.my_training.practice.ex_26;
 
 public class MainClass {
     public MainClass(int i, int j) {

@@ -1,4 +1,4 @@
-package My_Work.my_training.interview.ex_2_piramid_of_numbers;
+package my_java_exercises_from_different_sources.my_training.interview.ex_2_piramid_of_numbers;
 
 // Reverse pyramid.
 

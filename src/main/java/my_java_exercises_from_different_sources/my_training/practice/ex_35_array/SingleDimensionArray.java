@@ -1,4 +1,4 @@
-package My_Work.my_training.practice.ex_35_array;
+package my_java_exercises_from_different_sources.my_training.practice.ex_35_array;
 
 public class SingleDimensionArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package My_Work.my_training.interview.to_find_duplicate_characters_in_a_String;
+package my_java_exercises_from_different_sources.my_training.interview.to_find_duplicate_characters_in_a_String;
 
 import java.util.HashMap;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package My_Work.my_training.practice.ex_19;
+package my_java_exercises_from_different_sources.my_training.practice.ex_19;
 
 class X {
     int i = 101010;

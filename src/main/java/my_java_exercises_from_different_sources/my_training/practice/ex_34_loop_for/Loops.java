@@ -1,4 +1,4 @@
-package My_Work.my_training.practice.ex_34_loop_for;
+package my_java_exercises_from_different_sources.my_training.practice.ex_34_loop_for;
 
 import java.util.Scanner;
 

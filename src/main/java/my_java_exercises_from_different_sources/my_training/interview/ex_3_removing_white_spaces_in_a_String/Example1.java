@@ -1,4 +1,4 @@
-package My_Work.my_training.interview.ex_3_removing_white_spaces_in_a_String;
+package my_java_exercises_from_different_sources.my_training.interview.ex_3_removing_white_spaces_in_a_String;
 
 // using built-in-methods
 

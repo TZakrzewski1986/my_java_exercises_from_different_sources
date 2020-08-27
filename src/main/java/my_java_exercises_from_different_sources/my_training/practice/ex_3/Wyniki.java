@@ -1,4 +1,4 @@
-package My_Work.my_training.practice.ex_3;
+package my_java_exercises_from_different_sources.my_training.practice.ex_3;
 
 public class Wyniki {
     public static void main(String[] args) {

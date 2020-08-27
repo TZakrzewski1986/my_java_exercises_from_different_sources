@@ -1,4 +1,4 @@
-package My_Work.my_training.KATA.ex_2_Greetings;
+package my_java_exercises_from_different_sources.my_training.KATA.ex_2_Greetings;
 
 import org.junit.jupiter.api.Test;
 
